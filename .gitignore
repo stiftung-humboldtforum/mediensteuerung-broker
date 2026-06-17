@@ -1,2 +1,4 @@
 mosquitto/ssl
+mosquitto/config/password_file
+tls
 tls-gen
